@@ -7,7 +7,7 @@ Me chamo Arthur Alves de Moura, tenho 20 anos e sou programador backend júnior.
  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arthur-alves-de-moura/">
+<a href="https://www.linkedin.com/in/arthur-alves-de-moura/" target="_blank">
   <img 
     align="left" 
     alt="LINKEDIN" 
@@ -17,7 +17,7 @@ Me chamo Arthur Alves de Moura, tenho 20 anos e sou programador backend júnior.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
   
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:seu-email@gmail.com" target = "_blank">
   <img 
     src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" 
     alt="Gmail" 
