@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👨💻 Arthur Moura
 
-<!--
-**ArthurMouraa/ArthurMouraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Me chamo Arthur Alves de Moura, tenho 20 anos e sou programador backend júnior. Sempre fui fascinado pela forma como as coisas funcionam, e essa curiosidade me levou ao desenvolvimento de software, Hoje, estou aprofundando meus conhecimentos tanto em backend quanto em frontend, trabalhando com tecnologias como Java (Spring Boot), React.js, Node.js, Python e SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arthur-alves-de-moura/">
+  <img 
+    align="left" 
+    alt="LINKEDIN" 
+    title="LINKEDIN" 
+    width="40px" 
+    style="margin: 0 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+  
+  <a href="mailto:seu-email@gmail.com">
+  <img 
+    src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" 
+    alt="Gmail" 
+    title="Envie um e-mail" 
+    width="40px" 
+    style="margin: 0 10px; background-color: white; border-radius: 2px" />
+</a>
+
+</p>
+
+<br>
+
+## 🤖 Linguagens e Tecnologias
+
+<p style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img alt="JAVA" title="JAVA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
+
+<br/>
+
+<p style = "display:flex; gap: 20px;"> 
+<img 
+      align="left"
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMouraa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
