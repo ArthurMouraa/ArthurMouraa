@@ -43,17 +43,5 @@ Me chamo Arthur Alves de Moura, tenho 20 anos e sou programador backend júnior.
 </p>
 
 <br/>
-
-<p style = "display:flex; gap: 20px;"> 
- 
- ![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMouraa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=)
-
-
-<img 
-      align="left"
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMouraa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurMouraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
