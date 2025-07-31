@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Arthur Alves de Moura, tenho 20 anos e sou programador backend júnior. Sempre fui fascinado pela forma como as coisas funcionam, e essa curiosidade me levou ao desenvolvimento de software, Hoje, estou aprofundando meus conhecimentos tanto em backend quanto em frontend, trabalhando com tecnologias como Java (Spring Boot), React.js, Node.js, Python e SQL.
+Me chamo Arthur Alves de Moura, tenho 21 anos e sou programador backend júnior. Sempre fui fascinado pela forma como as coisas funcionam, e essa curiosidade me levou ao desenvolvimento de software, Hoje, estou aprofundando meus conhecimentos tanto em backend quanto em frontend, trabalhando com tecnologias como Java (Spring Boot), React.js, Node.js, Python e SQL.
 
  
 
